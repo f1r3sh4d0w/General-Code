@@ -1,0 +1,1 @@
+logging.file.name=C:/apps/logs/dispatch.log
